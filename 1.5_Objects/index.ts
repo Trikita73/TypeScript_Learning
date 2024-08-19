@@ -123,7 +123,7 @@ type Person = {
     age: number,
     nickName?: string,
     getPass?: () => string, 
-};
+}; 
 
 
 
