@@ -55,7 +55,7 @@ const todo: TodoPreview = {
 };
 
 // Omit<T, K>
-interface Todo {
+interface Todo { 
     title: string;
     description: string;
     completed: boolean;
